@@ -17,14 +17,14 @@ export default function HomePage() {
               Emmanuel Joseph
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-8 text-slate-600 dark:text-slate-300">
-              I create modern SaaS-style websites, ERP platforms, and business systems with clean UI, fast performance, and strong UX.
+              I create modern SaaS-style websites, ERP platforms, and business systems with clean UI, fast performance, and strong UX. Download my refreshed CV to review detailed project experience and technical expertise.
             </p>
             <div className="mt-10 flex flex-col gap-4 sm:flex-row">
               <a href="#contact" className="inline-flex items-center justify-center rounded-full bg-slate-950 px-6 py-3 text-base font-semibold text-white transition hover:bg-slate-800 dark:bg-white dark:text-slate-950 dark:hover:bg-slate-100">
                 Contact me
               </a>
               <a href={site.owner.cvLink} download className="inline-flex items-center justify-center rounded-full border border-slate-300 px-6 py-3 text-base font-semibold text-slate-700 transition hover:border-slate-400 hover:bg-slate-50 dark:border-slate-700 dark:text-slate-200 dark:hover:bg-slate-800">
-                Download CV
+                Download updated CV
               </a>
             </div>
             <div className="mt-10 grid gap-4 sm:grid-cols-2">

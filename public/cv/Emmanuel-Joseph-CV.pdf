@@ -1,75 +1,99 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
 endobj
 5 0 obj
-<< /Length 2011 >>
+<<
+/Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 11 0 R /MediaBox [ 0 0 612 792 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+>>
+endobj
+8 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260528134129+02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260528134129+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+9 0 obj
+<<
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+>>
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1334
+>>
 stream
-BT /F1 16 Tf 50 800 Td (Emmanuel Joseph) Tj
-T* (Website and ERP Developer) Tj
-T*
-T* (Contact) Tj
-T* (Email: emmajoe220@gmail.com) Tj
-T* (WhatsApp: +211920414178) Tj
-T* (GitHub: https://github.com/Emmajoe44) Tj
-T* (LinkedIn: https://www.linkedin.com/in/emmanuel-joseph) Tj
-T*
-T* (Professional Summary) Tj
-T* (Seasoned full-stack developer specializing in modern web applications, ERP systems, and business process automation.) Tj
-T* (Experienced building hospital management, pharmacy management, point-of-sale, and API-driven systems with strong UX and performance focus.) Tj
-T*
-T* (Core Skills) Tj
-T* (- Next.js, React, Tailwind CSS) Tj
-T* (- MySQL, database design, data modeling) Tj
-T* (- C#, .NET, API development) Tj
-T* (- Responsive UI, SaaS-style dashboards) Tj
-T* (- Business systems, POS systems, hospital systems) Tj
-T*
-T* (Selected Projects) Tj
-T* (- Pharmacy Management System: Inventory, sales, prescription tracking, and reporting.) Tj
-T* (- Hospital Management System: Patient workflows, appointments, billing, and clinical modules.) Tj
-T* (- Ticketing System: Support ticket tracking, SLA management, and analytics.) Tj
-T*
-T* (Experience) Tj
-T* (Senior Web & ERP Developer - Independent Consultant) Tj
-T* (Built enterprise-grade solutions for business automation, healthcare operations, and digital workflows.) Tj
-T*
-T* (Lead Software Engineer - Digital Systems Lab) Tj
-T* (Delivered custom API platforms, responsive dashboards, and integrated business applications.) Tj
-T*
-T* (Full-Stack Developer - Creative Agency) Tj
-T* (Developed client-facing websites, portals, and backend services with strong usability and scalability.) Tj
-T*
-T* (Education & Certifications) Tj
-T* (Professional Web Development - Tech Academy) Tj
-T* (Database Design & MySQL - Cloud University) Tj
-T* (Software Architecture - Enterprise Learning) Tj
-T*
-T* (Availability) Tj
-T* (Open to new web development, ERP, and business software opportunities. Ready to build reliable systems with clean UI and fast delivery.) Tj
-ET
-endstream
+Gb!#[9lhL;&A@ZcqNQ"54H),S5/j/+hJt*IR?TA8Lm\HXCS\52JP_URT@,FO[=cNQKEE2B7KqW:om>M0#l*<[C#=gUi$*s(%08d=T)f83&Fqomc3M[Jc$'F=.E#p+75]<2G^^XQE<;`(KnQ8[ObdTm!BhN0jBYaZ*^X2Lk_9.u?/35>;,=?qMTH&+Hr1+6`K-*F6N31lp3#lt9ubi%)a*Qq92ZS-"Wb24*pp07m0gQL9kb/iT#8YP:(=Z<5JZsj(p7h76Ii#]1C%-ePXKL0K1D[jo-nnb8`DFLO"17jDedpEAR(`+<Y]s\8?)X4gmr\DWd;"8K4KI60Peu"q@%hMKOiRC8P##O06<?u,kEC$5<%%I=BJdsZdEI3m@p"0g*8!FUV\_OKom>X`Z:CA=Ph1:+KO&8'C@68/K?B5fGX8PnO#Z5;=&9#j0V0H?o9(rA`0D!9Toapbg00O"OD?LM;eH_5dinX+H0e!6,7#,P*#$'6@u?c`76+8O2QL1L9N8WgQKp#pMIOR/]h+q)&gDXA-+)P<AD2T@iWM9pF-^$rLNFjNLHUnY_6.(`2U#CG_0tjN)68,9@R4lTiQc7"dZC0.BpB!]O7$UBngI,)^Us@Oi\65NStM0fs3RlCLaV)*o+W>iM)"FTK\pGU+oc%;)>gn)I]L"/<m-EA\nkL?8,ZiJtj387a&;d*?H3C%1H?Y]<fV9Z!,70r-g^1K12OIcH!C7[ZXd:>&(c>#qMjEAjWVYf3@\tfctr:Z9sFtWAHrBK]NF8?j'W!Yd_fSMu(.Bi8bE3,]0"9r*L@ud!'g3Z8#B[XT;bM_A]JT<Yq\<ZSSF.e&s9ONf;XSRT`;#QO*?,$JY-p)&FeU9An6mT!8@o=iJLfZ+?OfXqOt?o1eCaP[hZGaq>-J-3&d%7#m5W'sh`!$pof*c_[*G[F1Aaq532?A7BD$d8)9KNf;QPD@f.R,b&:tddBTa)S1d:@6"7'nhPfD=jh`m(sNP2O%iGY@BkKj<f^A8?6h?6rmNno?PdFhXiIWW,/L',9lKUdfETXOk,Lj/>a?e?dVC7qZs&;09Xt_:Rqn"\d(F68f4n>Km7b7cI!^_<Cf1P!de;R:1e8*"`Qk[E-NuN=.='<[@A.;a<UOEe(qR+FEG8WdVH@6ZCfK*0j)c[PQb6_cgYHDkaMN@7K%kF_'L"O1'KIh<YVj>=!g*'<k'=FdQ=-08\Jf;-k8VH;m`o1!`E-Oj8nJi;`H9f%Ha:2Thjt&*_3b"b9tM2Pfk14ji_uI=E!g*7`]<]F\<SAk-qj;VWMF6]A^^8qH%4;uj;?\U?-YW,9Mfc+i;ohur6:#5hqJMk;Z~>endstream
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 922
+>>
+stream
+Gb!$E;/ao;&BE]*.K3+VTWZ4Ig2rD3=sTmf2AX4=091*f%?@"4:8^^3GiWE&f]WB''A?)#S?q\`GJ?5/+[Q=_IROF1B6a<6J]5]&Y[it@>@Ep/D?cX@6TW,,2MJ(62hU_gDJT$Q)7$9s*OWN>Y]gef8[';UPN49P0cIB?R\[0'S:"m^qAS%ri8A=]?bN]=G;jAp-OWgm99op@`d(Kkq<8Ms(V$:]]WU4PC:lCWTemO1j.n$b^`.2A*e"N+WA`=#]cOUDKp&6[)dr@D-`/6F)S4=FD4(j9#$6kKPD2a@DZ3O2KV['15L^?:nJJ0[UNhA4=NIoB>iC"l4B2kAT(g5Yq6q3\%qA]R05tc#J'0EPWRk#]fj;_cjcQgB!X3F4RCXU0@7lXTA8<\9mI="NFL<,uIeb%mik@7XEZGGiGFRB,>BKAiP7[^7!9'BISX8=HHpl<"#OD.%is.1fEA+eSq3n\Cp%b6(SqW/JNDc\+Sr<&>FNNntA!4Je1>8hW^<o_L/u2eY,+S;dL'Z7YX#gN+0#!N%i5ff4+GX1c2rGTReJmqPK@+?Pc_ZeRpAbUp9(H4!C9iC?Xp+JR1)\+U=cZXZj@BX<+KZ=,6IJWs&IYQu_h_$^FI!n%)D\fRRZ;O'_?F'qb<>`N+XOI)cBJ9+^>ru#0!-SE3GC<Opd4eJ_m[\%`c6lp`!1;!$`\MW,+6`J>MB_jq\ni4loSsu4jUY`/BGqUW76UYp!p(+FeMK-i3NpfSWgcpg*D,UANSZpF"9/sPOOR.:>#,d/?ak6/bQ\VgUJiij&NO[Dbp)BOTrC8*S,p)hf>^aR^k)-EI'RqrcXeq0oJ6HUu;b>h6qOUY;]K!5N+V$>P!i-G9_JZ?L38hd62hQEp&3s,T9>3]P8G>e'^k:KfUVA3P9]DpQBb`L+rB/V^Ho@~>endstream
 endobj
 xref
-0 6
+0 12
 0000000000 65535 f 
-0000000015 00000 n 
-0000000064 00000 n 
-0000000121 00000 n 
-0000000247 00000 n 
-0000000317 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000446 00000 n 
+0000000640 00000 n 
+0000000834 00000 n 
+0000000902 00000 n 
+0000001182 00000 n 
+0000001247 00000 n 
+0000002673 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<<
+/ID 
+[<894de2c49f11b7dbd1b4882fedc922ea><894de2c49f11b7dbd1b4882fedc922ea>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 12
+>>
 startxref
-2509
+3686
 %%EOF
