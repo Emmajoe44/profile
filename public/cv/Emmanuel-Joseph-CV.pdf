@@ -1,5 +1,5 @@
 %PDF-1.4
-%√¢√£√è√ì
+%‚„œ”
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
@@ -7,31 +7,69 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
 endobj
 4 0 obj
-<< /Length 55 >>
-stream
-BT
-/F1 24 Tf
-100 700 Td
-(Emmanuel Joseph CV) Tj
-ET
-endstream
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<< /Length 2011 >>
+stream
+BT /F1 16 Tf 50 800 Td (Emmanuel Joseph) Tj
+T* (Website and ERP Developer) Tj
+T*
+T* (Contact) Tj
+T* (Email: emmajoe220@gmail.com) Tj
+T* (WhatsApp: +211920414178) Tj
+T* (GitHub: https://github.com/Emmajoe44) Tj
+T* (LinkedIn: https://www.linkedin.com/in/emmanuel-joseph) Tj
+T*
+T* (Professional Summary) Tj
+T* (Seasoned full-stack developer specializing in modern web applications, ERP systems, and business process automation.) Tj
+T* (Experienced building hospital management, pharmacy management, point-of-sale, and API-driven systems with strong UX and performance focus.) Tj
+T*
+T* (Core Skills) Tj
+T* (- Next.js, React, Tailwind CSS) Tj
+T* (- MySQL, database design, data modeling) Tj
+T* (- C#, .NET, API development) Tj
+T* (- Responsive UI, SaaS-style dashboards) Tj
+T* (- Business systems, POS systems, hospital systems) Tj
+T*
+T* (Selected Projects) Tj
+T* (- Pharmacy Management System: Inventory, sales, prescription tracking, and reporting.) Tj
+T* (- Hospital Management System: Patient workflows, appointments, billing, and clinical modules.) Tj
+T* (- Ticketing System: Support ticket tracking, SLA management, and analytics.) Tj
+T*
+T* (Experience) Tj
+T* (Senior Web & ERP Developer - Independent Consultant) Tj
+T* (Built enterprise-grade solutions for business automation, healthcare operations, and digital workflows.) Tj
+T*
+T* (Lead Software Engineer - Digital Systems Lab) Tj
+T* (Delivered custom API platforms, responsive dashboards, and integrated business applications.) Tj
+T*
+T* (Full-Stack Developer - Creative Agency) Tj
+T* (Developed client-facing websites, portals, and backend services with strong usability and scalability.) Tj
+T*
+T* (Education & Certifications) Tj
+T* (Professional Web Development - Tech Academy) Tj
+T* (Database Design & MySQL - Cloud University) Tj
+T* (Software Architecture - Enterprise Learning) Tj
+T*
+T* (Availability) Tj
+T* (Open to new web development, ERP, and business software opportunities. Ready to build reliable systems with clean UI and fast delivery.) Tj
+ET
+endstream
 endobj
 xref
 0 6
 0000000000 65535 f 
-0000000010 00000 n 
-0000000053 00000 n 
-0000000100 00000 n 
-0000000192 00000 n 
-0000000257 00000 n 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
 trailer
 << /Size 6 /Root 1 0 R >>
 startxref
-329
+2509
 %%EOF

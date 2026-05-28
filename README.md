@@ -80,6 +80,6 @@ Professional portfolio built with Next.js and Tailwind CSS.
 
 ## Notes
 
-- Replace the placeholder CV file in `public/cv/Emmanuel-Joseph-CV.pdf` with your real resume.
+- The full CV is included at `public/cv/Emmanuel-Joseph-CV.pdf` and is available through the portfolio download button.
 - Replace the content in `data/site.json` to customize the portfolio copy, services, projects, and blog posts.
 - If you want the contact form to work in production, run the app on Node or adapt the form to your email provider.
