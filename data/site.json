@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Emmanuel Joseph | Website & ERP Developer",
+    "description": "Professional portfolio for Emmanuel Joseph — Website and ERP developer specializing in web applications, business systems, and POS solutions.",
+    "keywords": "Next.js, Tailwind CSS, ERP, Web Development, API Development, POS, Hospital Systems"
+  },
+  "owner": {
+    "name": "Emmanuel Joseph",
+    "role": "Website and ERP Developer",
+    "intro": "I build clean, scalable web and ERP systems with modern interfaces and fast performance.",
+    "location": "Remote / Global",
+    "email": "emmajoe220@gmail.com",
+    "whatsapp": "+211920414178",
+    "github": "https://github.com/Emmajoe44",
+    "linkedin": "https://www.linkedin.com/in/emmanuel-joseph",
+    "cvLink": "/cv/Emmanuel-Joseph-CV.pdf"
+  },
+  "skills": [
+    { "name": "Next.js", "level": "Advanced" },
+    { "name": "MySQL", "level": "Advanced" },
+    { "name": "C#", "level": "Advanced" },
+    { "name": "Tailwind CSS", "level": "Advanced" },
+    { "name": ".NET", "level": "Advanced" },
+    { "name": "JavaScript", "level": "Advanced" },
+    { "name": "REST APIs", "level": "Advanced" },
+    { "name": "Responsive UI", "level": "Advanced" }
+  ],
+  "services": [
+    { "title": "Web Development", "description": "Modern web applications using Next.js, React, and robust backend services." },
+    { "title": "API Development", "description": "RESTful APIs and integrations for mobile apps, enterprise systems, and e-commerce." },
+    { "title": "Business Systems", "description": "ERP and business automation systems tailored for sales, finance, and operations." },
+    { "title": "POS Systems", "description": "Point-of-sale applications with inventory, billing, and reporting." },
+    { "title": "Hospital Systems", "description": "Clinical management and patient workflow solutions for healthcare organizations." }
+  ],
+  "projects": [
+    { "id": "pharmacy-management", "title": "Pharmacy Management System", "summary": "Inventory and sales automation for pharmacies, with prescription tracking and reporting.", "tags": ["ERP", "POS", "Inventory"], "link": "#" },
+    { "id": "hospital-management", "title": "Hospital Management System", "summary": "Patient registration, appointments, billing, and treatment workflows in a single platform.", "tags": ["Healthcare", "ERP", "Management"], "link": "#" },
+    { "id": "ticketing-system", "title": "Ticketing System", "summary": "Support ticket management with SLA tracking, agent dashboard, and reporting.", "tags": ["Support", "CRM", "Operations"], "link": "#" }
+  ],
+  "experience": [
+    { "year": "2025", "title": "Senior Web & ERP Developer", "company": "Independent Consultant", "details": "Delivered end-to-end ERP and web applications for businesses and healthcare clients." },
+    { "year": "2023", "title": "Lead Software Engineer", "company": "Digital Systems Lab", "details": "Built custom business systems, API platforms, and responsive SaaS dashboards." },
+    { "year": "2021", "title": "Full-Stack Developer", "company": "Creative Agency", "details": "Developed websites, client portals, and backend services with strong UX focus." }
+  ],
+  "certificates": [
+    { "title": "Professional Web Development", "issuer": "Tech Academy", "year": "2024" },
+    { "title": "Database Design & MySQL", "issuer": "Cloud University", "year": "2023" },
+    { "title": "Software Architecture", "issuer": "Enterprise Learning", "year": "2022" }
+  ],
+  "blog": [
+    { "id": "building-modern-erp", "title": "Building Modern ERP Systems", "summary": "How to deliver scalable ERP solutions with a clean UI and efficient data structure.", "date": "May 2026" },
+    { "id": "nextjs-performance", "title": "Next.js Performance Best Practices", "summary": "Optimize page speed, image loading, and client-side interactivity for modern portfolios.", "date": "March 2026" },
+    { "id": "designing-business-systems", "title": "Designing Business Systems for End Users", "summary": "A framework for creating systems that simplify workflows and increase productivity.", "date": "January 2026" }
+  ],
+  "social": [
+    { "name": "GitHub", "url": "https://github.com/Emmajoe44" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/emmanuel-joseph" }
+  ]
+}
